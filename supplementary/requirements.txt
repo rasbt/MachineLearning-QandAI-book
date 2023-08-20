@@ -4,4 +4,5 @@ nltk>=3.8.1
 numpy>=1.23.5
 scikit-learn>=1.2.2
 torch>=2.0.0
+transformers>=4.27.2
 watermark>=2.4.3
