@@ -2,7 +2,7 @@
 
 
 
-The Supplementary Materials for the [Machine Learning and AI Beyond the Basics](https://nostarch.com/machine-learning-and-ai-beyond-basics) / [Machine Learning Q and AI](https://leanpub.com/machine-learning-q-and-ai) book by [Sebastian Raschka](http://sebastianraschka.com).
+The Supplementary Materials for the [Machine Learning Q and AI](https://nostarch.com/machine-learning-and-ai-beyond-basics) book by [Sebastian Raschka](http://sebastianraschka.com).
 
 Please use the [Discussions](https://github.com/rasbt/ml-q-and-ai/discussions) for any questions about the book!
 
@@ -13,7 +13,7 @@ Please use the [Discussions](https://github.com/rasbt/ml-q-and-ai/discussions) f
 
 If you’ve locked down the basics of machine learning and AI and want a fun way to address lingering knowledge gaps, this book is for you. This rapid-fire series of short chapters addresses 30 essential questions in the field, helping you stay current on the latest technologies you can implement in your own work.
 
-Each chapter of Machine Learning and AI Beyond the Basics asks and answers a central question, with diagrams to explain new concepts and ample references for further reading
+Each chapter of *Machine Learning Q and AI* asks and answers a central question, with diagrams to explain new concepts and ample references for further reading
 
 - Multi-GPU training paradigms
 - Finetuning transformers
