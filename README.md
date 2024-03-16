@@ -39,7 +39,7 @@ This book is a fully edited and revised version of <a href="https://leanpub.com/
 #### Links
 
 - [Preorder directly from No Starch press](https://nostarch.com/machine-learning-and-ai-beyond-basics)
-- [Preorder directly from Amazon](https://www.amazon.com/Machine-Learning-AI-Beyond-Basics/dp/1718503768)
+- [Preorder directly from Amazon](https://www.amazon.com/Machine-Learning-AI-Essential-Questions/dp/1718503768)
 - [Supplementary Materias and Discussions](https://github.com/rasbt/MachineLearning-QandAI-book)
 
 <br>
