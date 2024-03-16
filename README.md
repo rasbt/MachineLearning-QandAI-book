@@ -2,7 +2,7 @@
 
 
 
-The Supplementary Materials for the [Machine Learning Q and AI](https://nostarch.com/machine-learning-and-ai-beyond-basics) book by [Sebastian Raschka](http://sebastianraschka.com).
+The Supplementary Materials for the [Machine Learning Q and AI](https://nostarch.com/machine-learning-q-and-ai) book by [Sebastian Raschka](http://sebastianraschka.com).
 
 Please use the [Discussions](https://github.com/rasbt/ml-q-and-ai/discussions) for any questions about the book!
 
@@ -38,7 +38,7 @@ This book is a fully edited and revised version of <a href="https://leanpub.com/
 
 #### Links
 
-- [Preorder directly from No Starch press](https://nostarch.com/machine-learning-and-ai-beyond-basics)
+- [Preorder directly from No Starch press](https://nostarch.com/machine-learning-q-and-ai)
 - [Preorder directly from Amazon](https://www.amazon.com/Machine-Learning-AI-Essential-Questions/dp/1718503768)
 - [Supplementary Materias and Discussions](https://github.com/rasbt/MachineLearning-QandAI-book)
 
