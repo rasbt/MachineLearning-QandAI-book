@@ -1,4 +1,4 @@
-# *Machine Learning and AI Beyond the Basics* Book
+# *Machine Learning Q and AI Beyond the Basics* Book
 
 
 
