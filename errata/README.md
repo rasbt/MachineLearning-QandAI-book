@@ -14,3 +14,18 @@ Is misleading because we only work with fixed-size sequences specifically during
 #### Chapter 12
 
 On the first page, just above the first figure (12-1), it says "two input and four output units" but should be "four inputs and two outputs" to match the figure caption of Figure 12-1.
+
+
+#### Chapter 17
+
+(p109) In figure 17-3, "next-sentence prediction" should be "next-word prediction".
+
+#### Chapter 18
+
+(p121, p122) In figure 18-6 and 18-7, "Fully connected layer" box that follows "Multihead self-attention" box should be removed.
+
+#### Chapter 19
+
+(p129) in the 2nd row of the second equation, that $\sum$ should be removed.
+
+(p129, 132) 2nd line from the bottom, "q15-text-augment subfolder" should be "q19-evaluation-llms subfolder"
