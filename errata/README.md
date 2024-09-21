@@ -51,3 +51,11 @@ On the first page, just above the first figure (12-1), it says "two input and fo
 (p194) 2nd line below Transfer Learning, "pretrained target dataset" should be "pretrained model on a target dataset".
 
 (p203) In Figure 30-11, "label more training" should be "label more training data".
+
+#### Appendix: Answer to the Exercises
+
+(p208) In 3-1, in the last line, "example per class" is better than "example per image".
+
+(p212) In last sentence of 10-2 answer, "deterministic dropout" should be "random dropout".
+
+(p217) In first and last sentences of 20-2 answer, "stateful retraining" should be "stateful training".
