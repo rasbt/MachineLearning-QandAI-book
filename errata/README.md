@@ -50,6 +50,8 @@ On the first page, just above the first figure (12-1), it says "two input and fo
 
 (p194) 2nd line below Transfer Learning, "pretrained target dataset" should be "pretrained model on a target dataset".
 
+(p196) 1st line in the last paragraph, "Meta-learning is one of the main subcategories of few-shot learning" should be "Few-shot learning is one of the main subcategories of meta-learning".
+
 (p203) In Figure 30-11, "label more training" should be "label more training data".
 
 #### Appendix: Answer to the Exercises
