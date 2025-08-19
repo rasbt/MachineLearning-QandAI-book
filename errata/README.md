@@ -59,3 +59,13 @@ On the first page, just above the first figure (12-1), it says "two input and fo
 (p212) In last sentence of 10-2 answer, "deterministic dropout" should be "random dropout".
 
 (p217) In first and last sentences of 20-2 answer, "stateful retraining" should be "stateful training".
+
+(p209) In 4-2, the part about zero weights is wrong; it should say "gradients" and not "weights":
+
+> While ReLU activations do not directly cause sparse weights, the zero activation outputs sometimes lead to zero weights that are not recoverable.
+
+A better phrasing is:
+
+> While ReLU activations do not directly cause sparse weights, zero activation outputs can lead to zero gradients, which in turn freeze the weights (i.e., prevent them from updating).
+
+
